@@ -1,2 +1,2 @@
-# circuito-eletr-nico
+# circuito-eletronico
 Circuito do medidor
